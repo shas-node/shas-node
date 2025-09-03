@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sameer, a Fullstack Developer from India 🇮🇳</h2>
-
+<h2 align="left">Hi 👋! My name is Sameer and I'm a Fullstack Developer from India 🇮🇳</h2>
 <p align="left">
   I build scalable web apps with <b>React</b>, <b>Node.js</b>, <b>Docker</b>, and <b>Kubernetes</b>.  
   Currently learning <b>TypeScript</b> 🚀
@@ -9,12 +8,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shas-node&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shas-node&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<div align="center">
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animated GIF" />
+</div>
 
 ###
 
@@ -36,5 +36,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/shas-node/shas-node/output/snake.svg" alt="Snake animation" />
